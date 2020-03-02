@@ -1,2 +1,3 @@
-# vehicles_counting
-Vehicles Counting
+# Vehicles Counting
+Object Detection: Yolov3
+Tracking: OpenCV
